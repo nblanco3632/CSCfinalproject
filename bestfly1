@@ -1,0 +1,10 @@
+<img src="https://s-media-cache-ak0.pinimg.com/236x/58/1e/bc/581ebc3f34ea117d12758b145b57b33b.jpg">
+<p>
+This is the best fly in the world. 
+<br>
+You will catch all of the fish.
+</p>
+<p>
+Price: $12
+</p>
+ <button type="button" id="buyNow" onclick="addPlace();">Buy Now</button>
